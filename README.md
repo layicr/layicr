@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <pre style="color:#fff; font-family:monospace; font-size:1.2em; line-height:1.6; margin:0; padding:0;">
+<span style="color:#61dafb;">user@layicr:~$</span> whoami
 
-<!--
-**layicr/layicr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="font-size:2.5em; font-weight:bold; color:#fff;">>layicr</span>
 
-Here are some ideas to get you started:
+<span style="color:#aaa;">[ Full-stack Engineer]</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="color:#fff; border-left:3px solid #a855f7; padding-left:10px;">To be honest,<br>
+The faint clarity forces us to grow.<br>
+A touch of blue,<br>
+Footsteps on the road, never stopping.</span>
+
+  </pre>
+</p>
+
+<p align="center">
+  <a href="http://www.lyc.la" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/homeassistant.svg" width="40" height="40" style="filter: invert(1);" alt="Home" />
+  </a>
+  <a href="https://github.com/layicr" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" width="40" height="40" style="filter: invert(1);" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://www.lyc.la" style="background:#222; color:#fff; padding:10px 20px; border-radius:10px; text-decoration:none; margin:0 8px;">About →</a>
+  <a href="http://www.lyc.la" style="background:#222; color:#fff; padding:10px 20px; border-radius:10px; text-decoration:none; margin:0 8px;">Sites →</a>
+</p>
