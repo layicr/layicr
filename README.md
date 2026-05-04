@@ -1,5 +1,4 @@
 
-# Hi, I'm layicr 👋
 
 
 
@@ -7,7 +6,7 @@
 
 
 ### user@layicr:~$ whoami 
-# **> layicr** 
+# > Hi, I'm layicr 👋
 ### [ Full-stack Engineer ]
 
 ---
