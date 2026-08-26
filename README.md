@@ -12,13 +12,8 @@
 
 
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
-<p>
-  <a href="http://www.lyc.la" target="_blank">
-    <img src="https://img.shields.io/badge/-lyc.la-00ffff?style=for-the-badge&logo=HomeAssistant&logoColor=black" />
-  </a>
-  <a href="https://github.com/layicr" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/Website-lyc.la-blue)](http://www.lyc.la)
+[![X](https://img.shields.io/badge/X-@layicr-000000)](https://x.com/layicr)
+[![GitHub](https://img.shields.io/badge/GitHub-layicr-181717)](https://github.com/layicr)
